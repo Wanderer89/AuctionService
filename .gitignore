@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/AuctionService/bin
+/AuctionService/obj
+/AuctionService/Properties/PublishProfiles
+/AuctionService/Properties/ServiceDependencies/auctionservice - Web Deploy
+/AuctionService/AuctionService.csproj.user
